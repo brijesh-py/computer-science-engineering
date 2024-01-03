@@ -1,4 +1,4 @@
-Sure, let's cover the fundamental concepts of Object-Oriented Programming (OOP) in Python with examples. Object-Oriented Programming is a paradigm that organizes code into reusable and structured units called objects. Python supports OOP principles, including encapsulation, inheritance, and polymorphism.
+Let's cover the fundamental concepts of Object-Oriented Programming (OOP) in Python with examples. Object-Oriented Programming is a paradigm that organizes code into reusable and structured units called objects. Python supports OOP principles, including encapsulation, inheritance, and polymorphism.
 
 ### 1. **Class and Object:**
 
