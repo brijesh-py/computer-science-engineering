@@ -41,6 +41,8 @@ This repository contains fundamental concepts and information related to compute
 - Internet protocols, transmission modes, IP addresses, MAC addresses, DNS.
 - Overview of search engines, social networking sites, internet security, firewalls, and cloud computing.
 
+More info https://github.com/brijesh-py/computer-science-engineering/tree/main
+
 ---
 
 Feel free to explore specific topics by navigating through the directories and files in this repository.
