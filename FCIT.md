@@ -13,7 +13,10 @@
 Computers have evolved over different generations, each marked by significant advancements in technology. The generations of computers are generally classified as follows:
 
 1. **First Generation (1940s-1950s):**
-   - **Technology:** Vacuum tubes.
+   - **Technology:** Vacuum tubes, magnetic drums for memory.
+   - **Size:** Large taking up the entire room.
+   - **Software:** Machine Languge.
+   - **Weight:** Very heavy  up to 30 tone.
    - **Characteristics:**
      - Large in size.
      - High power consumption.
@@ -21,7 +24,10 @@ Computers have evolved over different generations, each marked by significant ad
    - **Examples:** ENIAC (Electronic Numerical Integrator and Computer).
 
 2. **Second Generation (1950s-1960s):**
-   - **Technology:** Transistors.
+   - **Technology:** Transistors, magnetic cors for memory.
+   - **Size:** Smaller than the first generation, still large.
+   - **Software:** Assembly Language, still low level.
+   - **Weight:** Still heavy, but lighter than the first generation.
    - **Characteristics:**
      - Smaller in size compared to the first generation.
      - Lower power consumption.
@@ -29,7 +35,10 @@ Computers have evolved over different generations, each marked by significant ad
    - **Examples:** IBM 1401, UNIVAC 1108.
 
 3. **Third Generation (1960s-1970s):**
-   - **Technology:** Integrated Circuits (ICs).
+   - **Technology:** Integrated Circuits (ICs), magnetic core memory.
+   - **Size:** Medium size, beginning become to more accessible.
+   - **Software:** High-Level Language, Like COBOL and FORTRAN.
+   - **Weight:** Lighter than previous generations.
    - **Characteristics:**
      - Further size reduction.
      - Improved speed and efficiency.
@@ -38,6 +47,9 @@ Computers have evolved over different generations, each marked by significant ad
 
 4. **Fourth Generation (1970s-1980s):**
    - **Technology:** Microprocessors.
+   - **Size:** Small enough to fit on the desk, Leading to the rise of PCs.
+   - **Software:** High-Level Programming Languages with Operating System.
+   - **Weight:** Lighter enough to be portable.
    - **Characteristics:**
      - Dramatic reduction in size and cost.
      - Increased processing power.
@@ -46,6 +58,9 @@ Computers have evolved over different generations, each marked by significant ad
 
 5. **Fifth Generation (1980s-Present):**
    - **Technology:** VLSI (Very Large Scale Integration) microprocessors.
+   - **Size:** Small, with many devices being pocket-sized.
+   - **Software:** Advanced Programming Language, Artificial Intelligence capabilities.
+   - **Weight:** Lightweight, with many devices being wearable or implantable. 
    - **Characteristics:**
      - Continued miniaturization and increased power.
      - Integration of advanced technologies like Artificial Intelligence (AI).
